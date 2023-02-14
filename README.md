@@ -4,7 +4,4 @@ Run the program with:
 ```bash
 cargo run
 ```
-Follow the prompts or exit the program using:
-```bash
-^C
-```
+Follow the prompts or exit the program using: `^C`
